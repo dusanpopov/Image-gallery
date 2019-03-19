@@ -1,2 +1,2 @@
 # Image-gallery
-Simple image gallery made with vanilla JavaScript.
+Image gallery made with vanilla JavaScript.
